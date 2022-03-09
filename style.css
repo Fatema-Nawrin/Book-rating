@@ -1,0 +1,39 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color:  #c7ddcc;
+}
+h1, h2{
+    text-align: center;
+}
+#form{
+    max-width: 80%;
+    margin: 0 auto;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    padding:1rem;
+    border-radius: 5px;
+    margin: 0.6rem 0;
+}
+button{
+    margin: 0.8rem 0px;
+    padding:0.8rem 1.1rem;
+    border: 2px solid #19135a;
+    border-radius: 10px;
+    background-color: #19135a;
+    color: white;
+    font-size: 16px;
+}
+button:hover{
+    background-color: white;
+    color: #19135a;
+    cursor: pointer;
+}
+ul{
+
+    font-size: 18px;
+}
